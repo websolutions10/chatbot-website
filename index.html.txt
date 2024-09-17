@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon chatbot</title>
+</head>
+<body>
+    <h1>Bienvenue sur ma page chatbot</h1>
+    <p>Ceci est une démonstration du chatbot Tawk.to.</p>
+</body>
+</html>
